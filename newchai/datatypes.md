@@ -11,4 +11,8 @@ file=open('egss.txt')
 interger:
 float
 decimal
-bolean
+none:none
+bolean:true,False
+function,modules,classes
+
+advanced:Descorators,Geerators,Iterators,metaProgramming
