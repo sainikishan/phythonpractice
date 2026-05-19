@@ -1,5 +1,5 @@
 # age group cat
-age = 25
+age = 20
 if age < 13:
     print("child")
 elif age < 20:
